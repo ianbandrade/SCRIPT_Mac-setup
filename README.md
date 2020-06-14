@@ -1,8 +1,4 @@
-# Setup
-
-Scripts for setting up a MacOS.
-
-## Setup and usage
+# Setup and usage
 
 1. Clone the repository: `$ git clone https://github.com/ianbandrade/SCRIPT_Mac-setup.git`
 
