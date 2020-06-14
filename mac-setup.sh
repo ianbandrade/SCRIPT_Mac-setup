@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Mac setup
-# MacOS: Mojave 10.14.5
+# MacOS version: Mojave 10.14.5
 
 #Install Homebrew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
